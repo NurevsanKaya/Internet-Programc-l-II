@@ -1,2 +1,2 @@
-# Internet-Programc-l-II
+# Internet-Programciligi II
 Bilgisayar programcılığı ders içerikleri.
